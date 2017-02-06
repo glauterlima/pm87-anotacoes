@@ -1,7 +1,7 @@
 
 public class TesteGIt {
 	public static void main(String[] args) {
-		System.out.println("Exemplo alterado de novo");
+		System.out.println("Exemplo alterado");
 	}
 
 }
